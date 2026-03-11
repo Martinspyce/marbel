@@ -1,4 +1,4 @@
-# Ecomarket-Microservices
+# Marbel-Microservices
 Este proyecto fue desarrollado como parte de una evaluación académica. EcoMarket es una tienda que permite administrar usuarios, productos, órdenes y generar reportes, todo utilizando una arquitectura basada en microservicios con Spring Boot.
 
 Microservicios Implementados,
@@ -32,5 +32,5 @@ Cómo ejecutar,
 Clona el repositorio.,
 Ejecuta el proyecto con tu IDE favorito.,
 Accede a Swagger UI en: http://localhost:8080/swagger-ui/index.html,
-Autentícate con el usuario admin y la contraseña por defecto (10 de argentina).,
+Autentícate con el usuario admin y la contraseña por defecto messi.
 
