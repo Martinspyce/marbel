@@ -32,5 +32,5 @@ Cómo ejecutar,
 Clona el repositorio.,
 Ejecuta el proyecto con tu IDE favorito.,
 Accede a Swagger UI en: http://localhost:8080/swagger-ui/index.html,
-Autentícate con el usuario admin y la contraseña por defecto messi.
+Autentícate con el usuario admin y la contraseña por defecto messi en la pestaña web de Swagger.
 
